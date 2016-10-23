@@ -1,4 +1,4 @@
-# passport-oauth1
+# st0rm-oauth1
 
 [![Build](https://img.shields.io/travis/jaredhanson/passport-oauth1.svg)](https://travis-ci.org/jaredhanson/passport-oauth1)
 [![Coverage](https://img.shields.io/coveralls/jaredhanson/passport-oauth1.svg)](https://coveralls.io/r/jaredhanson/passport-oauth1)
@@ -27,7 +27,7 @@ list so other people can find it.
 
 ## Install
 
-    $ npm install passport-oauth1
+    $ npm install st0rm-oauth1
 
 ## Usage
 
